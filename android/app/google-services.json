@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "826484636513",
+    "project_id": "wolt-5368d",
+    "storage_bucket": "wolt-5368d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826484636513:android:a59826b1d91f9b87756320",
+        "android_client_info": {
+          "package_name": "com.hteigen.wolt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826484636513-ctro6gmi23kv6e0illnhs00gh89oe0ec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hteigen.wolt",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "826484636513-sb4pl04dv1p488tibacmtbh7a4505drj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRDYiVFWfpy8mEt3w8B5T7bVrmclFHOUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826484636513-sb4pl04dv1p488tibacmtbh7a4505drj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "826484636513-kmfblujpsv70qg2iltthbr9utfrkm73g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hteigen.wolt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

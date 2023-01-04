@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>826484636513-kmfblujpsv70qg2iltthbr9utfrkm73g.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.826484636513-kmfblujpsv70qg2iltthbr9utfrkm73g</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>826484636513-ctro6gmi23kv6e0illnhs00gh89oe0ec.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB2O7VF9nZMkZTUTbI-zLedCzOHHLlzrwE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>826484636513</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.hteigen.wolt</string>
+	<key>PROJECT_ID</key>
+	<string>wolt-5368d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wolt-5368d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:826484636513:ios:6d956a7e6f08ab8e756320</string>
+</dict>
+</plist>

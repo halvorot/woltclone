@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">Wolt</string>
+    <string name="facebook_app_id">5832810726739542</string>
+               <string name="fb_login_protocol_scheme">fb5832810726739542</string>
+</resources>
